@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardoamaro7/First-project.git"
+  },
+  "author": "Euclides & Ricardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardoamaro7/First-project/issues"
+  },
+  "homepage": "https://github.com/ricardoamaro7/First-project#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
